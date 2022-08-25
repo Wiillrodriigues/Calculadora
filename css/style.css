@@ -1,0 +1,76 @@
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(123, 216, 211);
+}
+
+input{
+    color: rgb(245, 248, 248);
+    padding: 17px;
+    outline: none;
+    font-size: 30px;
+    border-radius: 15px;
+}
+
+.num{
+    width: 65px;
+    height: 70px;
+}
+
+.text{
+    width: 160px;
+    height: 26px;
+    border-radius: 12px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 22px;
+}
+
+.text1{
+    width: 24px;
+    height: 26px;
+    border-radius: 12px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+    cursor: pointer;
+}
+.main{
+    display: inline-block;
+}
+
+.maincolor{
+    background-color: rgb(68, 58, 58);
+}
+.blue{
+    background-color:rgb(255, 196, 0); 
+}
+.pin{
+    background-color: rgb(255, 196, 0);
+}
+.gre{
+    background-color: rgb(255, 196, 0);
+}
+.pur{
+    background-color: rgb(255, 196, 0);
+}
+.ora{
+    background-color: rgb(255, 196, 0);
+}
+
+
+ .main{
+    
+    margin: 30px;
+    outline: 5px solid rgb(240, 237, 237);
+    outline-offset: 25px;
+    outline-style: outset;
+    
+}
+
+header{
+    background-color: rgb(7, 7, 7);
+}
