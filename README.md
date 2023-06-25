@@ -14,7 +14,7 @@ Programa gratuito, promovido pela Faculdade Impacta Avaliação WEB.
 <br>
 
 <p align="center">
-  <img alt="projeto dev" src="Calculadora/.github/calculadora.png" width="50%">
+  <img alt="projeto dev" src=".github/calculadora.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
